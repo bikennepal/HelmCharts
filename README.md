@@ -48,7 +48,43 @@ know more how to customize helm charts.
 Lifecycle management with Helm
 helm install nginx-release bitnami/nginx --version 7.1.0
 
+
 =======================================================
+Writing a Helm chart:
+
+know more how to edit values and files and create a helm chat 
+
+==========================================================
+Functions:
+know more on functions from documents.
+
+Pipelines:
+==========================================================
+conditionsl:
+With Blocks: 
+Ranges: 
+Named Templates: jsut hav a check why it is used with examples
+charts-hooks: 
+
+
+=============================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
