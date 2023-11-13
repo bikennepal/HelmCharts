@@ -64,7 +64,10 @@ conditionsl:
 With Blocks: 
 Ranges: 
 Named Templates: jsut hav a check why it is used with examples
-charts-hooks: 
+charts-hooks: try to understand char hooks
+Packaging and Signing Charts: 
+uploading charts: 
+
 
 
 =============================================================
